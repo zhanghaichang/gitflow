@@ -1,7 +1,3 @@
-原文链接：[Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)  
-译文发在[博乐在线](http://www.jobbole.com/)： [http://blog.jobbole.com/76550/](http://blog.jobbole.com/76843/)，2014-09-14  
-PS：原文的老链接和标题是[Git Workflows and Tutorials](https://www.atlassian.com/git/workflows)，`atlassian`改地址后换了文章标题，译文保留使用原标题。
-
 ## 🍎 译序
 
 关于`Git`工作流主题，也许这是目前最全面最深入的说明。这篇指南以大家在`SVN`中已经广为熟悉使用的集中式工作流作为起点，循序渐进地演进到其它高效的分布式工作流，还介绍了如何配合使用便利的`Pull Request`功能，体系地讲解了各种工作流的应用。
